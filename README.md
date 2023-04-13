@@ -1,28 +1,16 @@
-<div align="center">
-    <h1 style="color:#D4AF37;">Hello, I'm Diego</h2>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/>
 
-.<!-- Tema personalizado -->
-<style>
-    body {
-        background-color: #1E1E1E;
-        color: #D4AF37;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    
-    .header {
-        background-color: #4b0082;
-        color: #fff;
-    }
-    
-    .border {
-        border-color: #4b0082 !important;
-    }
-    
-    a {
-        color: #9932CC;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <a href="www.linkedin.com/in/dsgaldino"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/></a>
