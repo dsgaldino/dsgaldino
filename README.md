@@ -10,9 +10,7 @@
 </div>
 
 ******************************************
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dsgaldino&bg_color=0d1117&color=2e2be2&line=8a2be2&point=e48d2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dsgaldino&bg_color=0d1117&color=2e2be2&line=8a2be2&point=e48d2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ******************************************
  
 <div align="center">
